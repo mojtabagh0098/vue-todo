@@ -32,7 +32,7 @@ Vue Js Todo SPA
 
 ## Screenshots
 ![Todo Page screenshot](./public/images/screenshots/Screenshot%202024-12-24%20at%2015-55-19%20Vite%20App.png)
-![Todo Page screenshot](./public/images/screenshots/file:///C:/vue-todo/public/images/screenshots/Screenshot%202024-12-24%20at%2015-55-31%20Vite%20App.png)
+![Todo Page screenshot](./public/images/screenshots/Screenshot%202024-12-24%20at%2015-55-31%20Vite%20App.png)
 
 
 
