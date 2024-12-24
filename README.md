@@ -1,29 +1,54 @@
-# vue-todo
+# Vue.js Todo App
 
-This template should help get you started developing with Vue 3 in Vite.
+## Vue Js Todo SPA
 
-## Recommended IDE Setup
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
 
-## Customize configuration
+## Table of Contents
+* [General Info](#general-information)
+* [Technologies Used](#technologies-used)
+* [Features](#features)
+* [Screenshots](#screenshots)
+* [Setup](#setup)
+* [Contact](#contact)
 
-See [Vite Configuration Reference](https://vite.dev/config/).
 
-## Project Setup
+## General Information
+Vue Js Todo SPA
 
-```sh
-npm install
+
+## Technologies Used
+- vue      3.5.13
+
+
+## Features
+- TODO App
+    - Add the task
+    - Edit the task
+    - Delete the task
+    - Complete the task
+    - Without Reloading
+
+
+## Screenshots
+![Todo Page screenshot](./public/images/screenshots/Screenshot%202024-12-24%20at%2015-55-19%20Vite%20App.png)
+![Todo Page screenshot](./public/images/screenshots/file:///C:/vue-todo/public/images/screenshots/Screenshot%202024-12-24%20at%2015-55-31%20Vite%20App.png)
+
+
+
+
+## Setup
+
 ```
-
-### Compile and Hot-Reload for Development
-
-```sh
+git clone https://github.com/Mojtabagh0098/vue-todo.git
+cd vue-todo
+npm install
 npm run dev
 ```
 
-### Compile and Minify for Production
 
-```sh
-npm run build
-```
+
+
+
+## Contact
+Created by [@Mojtabagh0098](https://github.com/Mojtabagh0098) - feel free to contact me!
